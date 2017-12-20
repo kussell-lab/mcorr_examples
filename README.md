@@ -1,4 +1,4 @@
-# mcorr example data for [mcorr](https://github.com/kussell-lab/mcorr)
+# mcorr example data for [https://github.com/kussell-lab/mcorr](https://github.com/kussell-lab/mcorr)
 
 The example contains two data sets from the _H. pylori_ transformation experiment (20 strains, 1532 genes):
 
