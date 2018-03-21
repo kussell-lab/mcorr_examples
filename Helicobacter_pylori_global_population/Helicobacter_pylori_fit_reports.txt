@@ -1,0 +1,54 @@
+[d_sample]
+value = 0.0567043
+bootstrapping mean = 0.0567907
+bootstrapping standard deviation = 0.00121702
+bootstrapping size = 1000
+bootstrapping median = 0.0567811
+bootstrapping lower bound (5%) = 0.0547139
+bootstrapping upper bound (95%) = 0.058855
+
+[theta_pool]
+value = 0.106397
+bootstrapping mean = 0.106416
+bootstrapping standard deviation = 0.00181358
+bootstrapping size = 1000
+bootstrapping median = 0.106353
+bootstrapping lower bound (5%) = 0.103684
+bootstrapping upper bound (95%) = 0.109645
+
+[phi_pool]
+value = 0.43254
+bootstrapping mean = 0.434099
+bootstrapping standard deviation = 0.042157
+bootstrapping size = 1000
+bootstrapping median = 0.431285
+bootstrapping lower bound (5%) = 0.366937
+bootstrapping upper bound (95%) = 0.505757
+
+[gamma/mu]
+value = 4.06533
+bootstrapping mean = 4.0759
+bootstrapping standard deviation = 0.352677
+bootstrapping size = 1000
+bootstrapping median = 4.05015
+bootstrapping lower bound (5%) = 3.51183
+bootstrapping upper bound (95%) = 4.64778
+
+[fbar]
+value = 637.431
+bootstrapping mean = 647.098
+bootstrapping standard deviation = 67.8625
+bootstrapping size = 1000
+bootstrapping median = 640.176
+bootstrapping lower bound (5%) = 551.194
+bootstrapping upper bound (95%) = 762.061
+
+[c]
+value = 0.61544
+bootstrapping mean = 0.616342
+bootstrapping standard deviation = 0.0112268
+bootstrapping size = 1000
+bootstrapping median = 0.61597
+bootstrapping lower bound (5%) = 0.598561
+bootstrapping upper bound (95%) = 0.63534
+
