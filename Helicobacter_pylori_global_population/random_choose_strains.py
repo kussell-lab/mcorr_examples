@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This script randomly chooses 10 strains from the gene-by-gene alignments.
+This script randomly chooses {number} strains from the gene-by-gene alignments.
 Created by Mingzhi Lin (mingzhi9@gmail.com).
 """
 import sys
