@@ -1,6 +1,6 @@
 In this example, we will infer recombination parameters of _Helicobacter pylori_ by using whole-genome sequences of a panel of 401 strains. We will use the gene-by-gene alignments compiled by [Thorell _et al_](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006546).
 
-0. Follow the [instruction](https://github.com/kussell-lab/mcorr) to install `mcorr` and download this repository:
+0. Follow the [instruction](https://github.com/kussell-lab/mcorr/blob/master/README.md#installation) to install `mcorr` and download this repository:
 ```sh
 cd Downloads
 git clone https://github.com/kussell-lab/mcorr_examples.git
