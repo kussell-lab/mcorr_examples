@@ -18,7 +18,7 @@ gunzip -f BIGSdb_gene-by-gene_alignment.xmfa.gz
 python3 random_choose_strains.py BIGSdb_gene-by-gene_alignment.xmfa Helicobacter_pylori.xmfa 50
 ```
 
-3. We then calculate correlation profiles using `mcorr-xmfa`, and perform fitting using `mcorr-fit`. It takes 5-10 minutes in a normal PC.
+3. We then calculate correlation profiles using `mcorr-xmfa`, and perform fitting using `mcorr-fit`. It takes 5-10 minutes on a normal PC.
 ```sh
 mcorr-xmfa Helicobacter_pylori.xmfa Helicobacter_pylori
 mcorr-fit Helicobacter_pylori.csv Helicobacter_pylori
