@@ -1,4 +1,4 @@
-In this example, we will infer recombination parameters of _Helicobacter pylori_ by using reads sequenced from a transformation experiment. We started with a multi-sample bam file (`TC1_read.bam`).
+In this example, we will infer recombination parameters of _Helicobacter pylori_ by using reads sequenced from a transformation experiment. We will start with a multi-sample bam file (`TC1_read.bam`).
 
 0. Follow the [instruction](https://github.com/kussell-lab/mcorr/blob/master/README.md#installation) to install `mcorr` and download this repository:
 ```sh
