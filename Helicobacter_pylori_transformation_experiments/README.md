@@ -2,7 +2,7 @@ In this example, we will infer recombination parameters of _Helicobacter pylori_
 
 0. Follow the [instruction](https://github.com/kussell-lab/mcorr/blob/master/README.md#installation) to install `mcorr` and download this repository:
 ```sh
-cd Downloads
+cd ~/Downloads
 git clone https://github.com/kussell-lab/mcorr_examples.git
 cd mcorr_examples/Helicobacter_pylori_transformation_experiments
 ```
